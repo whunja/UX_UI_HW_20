@@ -1,0 +1,84 @@
+body{
+  background-color: floralwhite;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #252442;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+  }
+.logo{
+  margin-left: 50px;
+  padding-top: 8px;
+}
+ 
+  /* Links inside the navbar */
+  .navbar a {
+    float: right;
+    display: block;
+    color: #CDD6EE;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Josefin Sans';
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-right: 40px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline #E6CDEE 3px;
+  }
+
+  .mainContainer{
+    margin: 100px;
+    margin-top: 40px;
+  }
+  .heroImg{
+    margin-top: 50px;
+  }
+
+  .nav-link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: floralwhite;
+  }
+h1{
+  font-family: 'Josefin Sans';
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+}
+.nav{
+  background-color: papayawhip ;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+h4{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.row{
+  padding-top: 10px;
+}
